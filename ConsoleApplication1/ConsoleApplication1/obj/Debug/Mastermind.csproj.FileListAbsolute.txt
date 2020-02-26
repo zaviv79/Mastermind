@@ -1,5 +1,0 @@
-c:\users\b161281\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Mastermind.exe.config
-c:\users\b161281\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Mastermind.exe
-c:\users\b161281\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Mastermind.pdb
-c:\users\b161281\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Mastermind.exe
-c:\users\b161281\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Mastermind.pdb
